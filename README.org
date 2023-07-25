@@ -1,0 +1,10 @@
+* cl-factoring
+
+Factoring numbers in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/smithzvk/cl-factoring.git   |
+| commit  | ef1ab1c  |
+| systems | cl-factoring |
+|---------+-------------------------------------------|
+
